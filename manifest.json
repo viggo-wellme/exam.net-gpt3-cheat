@@ -1,0 +1,16 @@
+{
+    "name": "GTP3 Cheat",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+      "storage",
+      "tabs"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://*.kunskapsmatrisen.se/*", "https://*.exam.net/*"],
+        "js": ["src/cheat.js", "src/secrets.js"]
+      }
+    ]
+
+}

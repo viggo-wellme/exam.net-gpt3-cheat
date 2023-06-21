@@ -1,7 +1,7 @@
 # GTP3-cheat
 ### A chrome extension that allows you to cheat on exam.net using OpenAi's API.
 # READ BEFORE USING!
-I am not responsible for any consequences that may arise from the use of this software. The use of this software is at your own risk. It is your responsibility to comply with all relevant laws and school policies regarding academic integrity and cheating. If you are caught using this software, it is your sole responsibility to face any consequences that may result. By using this software, you acknowledge that you understand and accept these terms.
+<ins>__I (https://github.com/viggo-wellme) am not responsible for any consequences that may arise from the use of this software.__</ins> The use of this software is at your own risk. It is your responsibility to comply with all relevant laws and school policies regarding academic integrity and cheating. If you are caught using this software, it is your sole responsibility to face any consequences that may result. <ins>__By using this software, you acknowledge that you understand and accept these terms.__</ins>
 
 
 ## How to install
